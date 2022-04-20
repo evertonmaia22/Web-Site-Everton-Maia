@@ -125,3 +125,28 @@ section.module.parallax h1 {
     justify-content: center;
     height: 10px;
 }
+
+@media (max-width:768px) {
+    .wrapper {
+        width: 100%;
+    }
+    section.module.parallax.parallax-1 h1 {
+        font-size: 45px;
+        margin-top: 25px;
+    }
+    div.roll h2 {
+        font-size: 15px;
+    }
+    div.container h2 {
+        font-size: 20px;
+    }
+    section.module.parallax.parallax-2 h1 {
+        font-size: 45px;
+        margin-top: 25px;
+    }
+    section.module.parallax.parallax-3 h1 {
+        font-size: 45px;
+        margin-top: 25px;
+    }
+}
+
