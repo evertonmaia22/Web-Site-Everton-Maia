@@ -1,11 +1,7 @@
-# Web-Site-Everton-Maia 
+# Page created with HTML5 and CSS3.
 
-https://evertonmaia22.github.io/Web-Site-Everton-Maia/
+Parallax effect with css, using a well-crafted stylization,
 
+Responsiveness with media queries.
 
-Site desenvolvido para aplicação de conhecimento e descrição de perfil.
-
-
-         
-
-
+Click on the link to enjoy this application: https://evertonmaia22.github.io/Web-Site-Everton-Maia/
